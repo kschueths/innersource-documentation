@@ -1,27 +1,24 @@
-# Indeed Open Source Repository Template
-
-A default template repository we can use to bootstrap new open source projects. Replace this text with an overview of your project and what it does.
+# Repository Templates
+Thes files in the docs folder in this repository should be kept as root files in each project repo. 
+The docs folder in this repo is a default template repository you can use to bootstrap new projects. Replace the text in each of the templates with the correct information for your project.
 
 Your README.md should contain the following sections:
 
 ## Getting Started
 
-How does a user get started using this project?
+Copy these templates in the docs folder and place them as root files in your repository. Fill out each template with your project/team information and delete the default text in each template
 
 ## Getting Help
 
-How does a user ask questions if they are stuck?
+Please reach out to the InnerSource Program Office in chat.
 
 ## How To Contribute
 
-What does a user need to know if they want to start contributing? If this information is extensive, capture it in a CONTRIBUTING.md file and link to that file here.
+If you have suggestions for any of the templates, please create an issue with feedback and suggestions.
 
 ## Project Maintainers
 
-Who are the project maintainers, and how can they be reached?
-
-## Code of Conduct
-This project is governed by the [Contributor Covenant v 1.4.1](CODE_OF_CONDUCT.md). (Review the Code of Conduct and remove this sentence before publishing your project.)
+Current maintainers are:
 
 ## License
 This project uses the [Apache 2.0](LICENSE) license. (Update this and the LICENSE file if your project uses a different license.)
