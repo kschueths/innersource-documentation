@@ -1,5 +1,5 @@
 # InnerSource Repository Templates
-Thes files in the docs folder in this repository should be kept as root files in each project repo. 
+The files in the docs folder in this repository should be kept as root files in each project repo. 
 The docs folder in this repo is a default template repository you can use to bootstrap new projects. Replace the text in each of the templates with the correct information for your project.
 
 Your README.md should contain the following sections:
