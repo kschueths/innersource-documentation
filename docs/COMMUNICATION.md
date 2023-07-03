@@ -45,7 +45,7 @@ Managers or roles and specific situations they should be contacted for outside t
 
 
 ## Outbound Communication
-| Scenarios                                                                         | When   | Stakeholders   | Action   |
+| Scenarios                                                                         | When users will recieve communication   | Stakeholders who will recieve   | Action - how to recieve these communications  |
 |-----------------------------------------------------------------------------------|--------|----------------|----------|
 | Breaking changes (for e.g. any changes to our API or messaging contracts)         |        |                |          |
 | Extended/planned outages (service downtime for maintenance related activities)    |        |                |          |
@@ -61,13 +61,11 @@ Managers or roles and specific situations they should be contacted for outside t
 ## Documentation Contacts
 Tell how to find the owner, responsible party, or group people should contact if they have questions about documentation in the repo 
 
-If you have questions on a specific piece of documentation, you can find the team member responsible for the information by looking…
-
-You should for ex:
-
-Contact the responsible party by sending a message in the xyz Slack channel, send them a direct message in Slack, email. Etc. The individual who last certified the documentation is the responsible party.
-
 Describe this communication process.
+
+For example:
+* If you have questions on a specific piece of documentation, you can find the team member responsible for the information by looking here:
+* You can contact the responsible party by sending a message in the xyz channel, send them a direct message in chat, email, etc. The individual who last certified the documentation is the responsible party.
 
 ***
 #innersource (DO NOT DELETE)
